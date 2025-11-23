@@ -1,3 +1,3 @@
 # CSE2600_finalproject
 
-Yo whats good guys
+Addie TODO: fix data cleaning (do it right), working on it understands directions
